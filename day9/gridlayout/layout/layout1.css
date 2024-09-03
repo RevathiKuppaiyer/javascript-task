@@ -1,0 +1,52 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+}
+.parent{
+    height:100vh;
+    margin: 20px; 
+    display: grid;
+    grid-template-columns:1fr 1fr 1fr;
+    grid-template-rows:1fr 1fr;
+    gap: 5px;
+}
+.childone{
+    border: solid 1px black;
+    background-color:orangered;
+    padding:10px;
+
+}
+.childtwo{
+    border: solid 1px black;
+    background-color:rgba(255, 36, 36, 0.973);
+    padding:10px;
+
+}
+.childthree{
+    border: solid 1px black;
+    background-color:rgb(224, 123, 28);
+    padding:10px;
+
+}
+.childfour{
+    border: solid 1px black;
+    background-color:rgb(79, 163, 79);
+    padding:10px;
+
+}
+.childfive{
+    border: solid 1px black;
+    background-color:rgb(27, 185, 138);
+    padding:10px;
+
+}
+.childsix{
+    border: solid 1px black;
+    background-color:rgb(15, 134, 41);
+    padding:10px;
+
+}

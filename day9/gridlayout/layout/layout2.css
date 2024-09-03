@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+}
+.parent{
+    
+    height: 100vh;
+    margin:10px;
+    display: grid;
+    grid-template-columns:repeat(3,1fr);
+    grid-template-rows:repeat(2,1fr);
+    gap: 5px;
+}
+.child1{
+    background-color: orangered;
+    grid-column: 1/span 2;
+    grid-row:1
+    
+}
+.child2{
+    background-color: orange;
+    grid-column:3;
+    grid-row:1/span 2; 
+}
+
+.child3
+{
+    background-color:green;
+}
+.child4{
+    background-color: rgb(28, 150, 144);
+}

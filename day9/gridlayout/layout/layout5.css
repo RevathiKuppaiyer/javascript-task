@@ -1,0 +1,71 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+}
+.parent{
+    height: 100vh;
+    margin: 15px;
+    display: grid;
+    grid-template-columns:repeat(6, 1fr);
+    grid-template-rows:repeat(3, 1fr);
+    gap: 10px;
+}
+.child1{
+    background-color: green;
+}
+.child2{
+    background-color: rgb(243, 140, 23);
+}
+.child3{
+    background-color: rgb(51, 175, 148);
+}
+.child4{
+    background-color: rgb(250, 102, 43);
+}
+.child5{
+    background-color: rgb(47, 156, 160);
+}
+.child6{
+    background-color: rgb(165, 53, 34);
+}
+.child7{
+    background-color: rgb(218, 143, 32);
+}
+.child8{
+    background-color: rgb(20, 97, 20);
+}
+.child9{
+    background-color: rgb(221, 120, 25);
+}
+.child10{
+    background-color: rgb(65, 201, 31);
+}
+.child11{
+    background-color: rgb(223, 93, 18);
+}
+.child12{
+    background-color: rgb(21, 153, 92);
+}
+.child13{
+    background-color: rgb(230, 146, 20);
+}
+.child14{
+    background-color: rgb(228, 59, 8);
+}
+.child15{
+    background-color: rgb(18, 112, 65);
+}
+.child16{
+    background-color: rgb(197, 77, 29);
+}
+.child17{
+    background-color: rgb(9, 105, 25);
+}
+.child18{
+    background-color: aqua;
+}
+
