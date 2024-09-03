@@ -12,3 +12,7 @@
    Learned about conditional statement-(if,else if, else), switch case,Ternary Operators, for loop, while loop
 ### Task12: Problem-solving programs
 [Day12] https://html-taskrevathiday12.vercel.app/
+## Day13(01/09/2024)
+   Learned about do..while loop, function declaration,intialisation, calling, string methods
+### Task13: Problem-solving programs
+[Day13] 
