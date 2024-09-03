@@ -1,5 +1,7 @@
 # Daily Task in MERN Training
 ## CSS
+## Day9(28/08/2024)
+   Learned about display-grid, grid-template-row, grid-template-column, fractionalunit/frame(1fr)
 ### Task9: Created grid layouts
 [Day9] https://html-taskrevathiday9.vercel.app/
 ## Day10(29/08/2024)
