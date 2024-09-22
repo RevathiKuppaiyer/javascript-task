@@ -18,3 +18,4 @@
 [Day13] https://javascript-taskrevathiday13.vercel.app/
 ### Project
 [project]
+[simpleCalculator] https://javascript-tasksimplecalc.vercel.app/
